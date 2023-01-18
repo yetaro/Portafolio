@@ -4,11 +4,7 @@ contentHeader.empty();
 var html1 = '<div class="content-menu-movil" id="contentmenuMovil" onclick="cerrarMenu()">';
 html1 += '  <div class="menu-movil" id="menuMovil">';
 html1 += '      <div class="menu-movil-logo">';
-<<<<<<< HEAD
 html1 += '          <img src="../img/LogoLuis.png">';
-=======
-html1 += '          <img src="../img/LogoMario.png">';
->>>>>>> 7ff2cc7c2a2fb8ecb279e4d36d5825bbdf91fa78
 html1 += '      </div>';
 html1 += '      <main class="menu-movil-items">';
 html1 += '          <a href="#" class="menu-movil-item"><i class="bx bx-home"></i> Home</a>';
