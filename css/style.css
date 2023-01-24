@@ -454,6 +454,7 @@ a{
 }
 .div-portafolio .portafolio .project .project-info img{
     max-width: 280px;
+    height: auto;
 }
 .div-portafolio .portafolio .project .project-info main{
     display: grid;
@@ -468,7 +469,25 @@ a{
 
 .div-portafolio .portafolio .project img{
     width: 100%;
+    height: 100%;
 }
+
+.div-portafolio .portafolio .designs .project-info
+{
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    background: #ffffff7d;
+    transition: all 0.5s ease;
+}
+
+
 .div-portafolio .designs{
     display: grid;
     grid-template-columns: repeat(2,1fr);

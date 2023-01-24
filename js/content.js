@@ -25,7 +25,7 @@ var Certificates = [
         Img: "./img/itep_logo.png",
         Description: "HIGH INTERMEDIATE ENGLISH.",
         Subdescription: "",
-        Date: "pendiente 2021"
+        Date: "September, 2021"
     },
 ]
 var contentCertificates = $("#certificates");;
