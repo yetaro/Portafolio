@@ -1,5 +1,12 @@
 var Certificates = [
     {
+        Title: "AZURE DATA FACTORY FOR DATA ENGINEERS",
+        Img: "./img/uem.png",
+        Description: "UDEMY CERTIFICATION",
+        Subdescription: "Project on Covid19 using Azure.",
+        Date: "February, 2022"
+    },
+    {
         Title: "SOFTWARE DEVELOPMENT AND MANAGEMENT.",
         Img: "./img/logo_utld.png",
         Description: "UNIVERSIDAD TECNOLOGICA DE LA LAGUNA.",
